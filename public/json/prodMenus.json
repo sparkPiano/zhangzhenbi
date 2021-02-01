@@ -1,0 +1,34 @@
+{
+  "HEADER": {
+    "retcode": "000000000000",
+    "retmsg": ""
+  },
+  "BODY": {
+    "list": [
+      {
+        "label": "预约记录查询",
+        "img": "../images/f1x.png",
+        "link": "/record",
+        "iconClass": ""
+      },
+      {
+        "label": "交易明细查询",
+        "img": "../images/c1x.png",
+        "link": "/detail",
+        "iconClass": ""
+      },
+      {
+        "label": "提取网点查询",
+        "img": "../images/e1x.png",
+        "link": "/netList",
+        "iconClass": ""
+      },
+      {
+        "label": "收货地址",
+        "img": "../images/d1x.png",
+        "link": "/address",
+        "iconClass": ""
+      }
+    ]
+  }
+}
